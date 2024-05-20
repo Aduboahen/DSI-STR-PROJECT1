@@ -1,0 +1,5 @@
+*.bam
+*.vcf
+*.tsv
+*.bai
+*.tbi

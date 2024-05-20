@@ -1,0 +1,722 @@
+{
+  "LocusResults": {
+    "AFF2": {
+      "AlleleCount": 2,
+      "Coverage": 35.91891891891892,
+      "FragmentLength": 442,
+      "LocusId": "AFF2",
+      "ReadLength": 150,
+      "Variants": {
+        "AFF2": {
+          "CountsOfFlankingReads": "(1, 3), (2, 1), (3, 2), (5, 2), (6, 1), (7, 1), (8, 2), (10, 2), (11, 2), (13, 1), (14, 2), (15, 3), (17, 2), (18, 1), (19, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(1, 1), (17, 1), (20, 9)",
+          "Genotype": "20/20",
+          "GenotypeConfidenceInterval": "20-20/20-20",
+          "ReferenceRegion": "X:147582151-147582211",
+          "RepeatUnit": "GCC",
+          "VariantId": "AFF2",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "AR": {
+      "AlleleCount": 2,
+      "Coverage": 38.43243243243243,
+      "FragmentLength": 427,
+      "LocusId": "AR",
+      "ReadLength": 150,
+      "Variants": {
+        "AR": {
+          "CountsOfFlankingReads": "(1, 1), (2, 4), (3, 2), (4, 2), (5, 3), (6, 3), (7, 1), (8, 1), (13, 3), (14, 1), (15, 3), (17, 1), (19, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(18, 10), (19, 12)",
+          "Genotype": "18/19",
+          "GenotypeConfidenceInterval": "18-18/19-19",
+          "ReferenceRegion": "X:66765158-66765227",
+          "RepeatUnit": "GCA",
+          "VariantId": "AR",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATN1": {
+      "AlleleCount": 2,
+      "Coverage": 40.7027027027027,
+      "FragmentLength": 425,
+      "LocusId": "ATN1",
+      "ReadLength": 150,
+      "Variants": {
+        "ATN1": {
+          "CountsOfFlankingReads": "(3, 5), (4, 1), (5, 2), (6, 1), (7, 1), (8, 1), (10, 2), (11, 4), (12, 4), (13, 2), (15, 2), (16, 2), (17, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(17, 19)",
+          "Genotype": "17/17",
+          "GenotypeConfidenceInterval": "17-17/17-17",
+          "ReferenceRegion": "12:7045879-7045936",
+          "RepeatUnit": "CAG",
+          "VariantId": "ATN1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN1": {
+      "AlleleCount": 2,
+      "Coverage": 36.891891891891895,
+      "FragmentLength": 443,
+      "LocusId": "ATXN1",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN1": {
+          "CountsOfFlankingReads": "(2, 2), (4, 2), (6, 2), (8, 1), (9, 2), (10, 1), (11, 1), (12, 3), (13, 3), (14, 2), (17, 1), (18, 2), (19, 4), (20, 3), (21, 1), (23, 1), (24, 2), (25, 1), (26, 1), (30, 2), (31, 2), (32, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(27, 1), (28, 8), (33, 5)",
+          "Genotype": "28/33",
+          "GenotypeConfidenceInterval": "28-28/33-33",
+          "ReferenceRegion": "6:16327864-16327954",
+          "RepeatUnit": "TGC",
+          "VariantId": "ATXN1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN10": {
+      "AlleleCount": 2,
+      "Coverage": 46.54054054054054,
+      "FragmentLength": 434,
+      "LocusId": "ATXN10",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN10": {
+          "CountsOfFlankingReads": "(1, 3), (2, 3), (3, 3), (4, 3), (5, 1), (6, 2), (9, 5), (10, 3), (11, 1), (12, 1), (13, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(12, 12), (13, 16)",
+          "Genotype": "12/13",
+          "GenotypeConfidenceInterval": "12-12/13-13",
+          "ReferenceRegion": "22:46191234-46191304",
+          "RepeatUnit": "ATTCT",
+          "VariantId": "ATXN10",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN2": {
+      "AlleleCount": 2,
+      "Coverage": 34.86486486486487,
+      "FragmentLength": 437,
+      "LocusId": "ATXN2",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN2": {
+          "CountsOfFlankingReads": "(1, 1), (3, 2), (4, 2), (5, 2), (6, 5), (7, 2), (8, 4), (11, 1), (12, 3), (13, 6), (14, 1), (15, 2), (17, 2), (18, 2), (19, 4), (20, 3), (21, 2), (22, 4), (23, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(9, 1), (22, 5), (23, 14)",
+          "Genotype": "22/23",
+          "GenotypeConfidenceInterval": "22-22/23-23",
+          "ReferenceRegion": "12:112036753-112036822",
+          "RepeatUnit": "GCT",
+          "VariantId": "ATXN2",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN3": {
+      "AlleleCount": 2,
+      "Coverage": 45.648648648648646,
+      "FragmentLength": 437,
+      "LocusId": "ATXN3",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN3": {
+          "CountsOfFlankingReads": "(1, 3), (2, 3), (4, 2), (5, 6), (6, 2), (7, 3), (8, 1), (10, 3), (11, 1), (12, 3), (13, 1), (14, 2), (15, 2), (16, 1), (17, 1), (18, 2), (20, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(15, 1), (19, 13), (21, 16)",
+          "Genotype": "19/21",
+          "GenotypeConfidenceInterval": "19-19/21-21",
+          "ReferenceRegion": "14:92537353-92537386",
+          "RepeatUnit": "GCT",
+          "VariantId": "ATXN3",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN7": {
+      "AlleleCount": 2,
+      "Coverage": 37.2972972972973,
+      "FragmentLength": 450,
+      "LocusId": "ATXN7",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN7": {
+          "CountsOfFlankingReads": "(1, 2), (2, 1), (5, 4), (7, 1), (9, 1), (10, 5)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(1, 1), (9, 1), (10, 29)",
+          "Genotype": "10/10",
+          "GenotypeConfidenceInterval": "10-10/10-10",
+          "ReferenceRegion": "3:63898360-63898390",
+          "RepeatUnit": "GCA",
+          "VariantId": "ATXN7",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "ATXN7_GCC": {
+          "CountsOfFlankingReads": "(1, 3), (3, 2), (4, 4)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(4, 28), (5, 1), (14, 1)",
+          "Genotype": "4/4",
+          "GenotypeConfidenceInterval": "4-4/4-4",
+          "ReferenceRegion": "3:63898390-63898402",
+          "RepeatUnit": "GCC",
+          "VariantId": "ATXN7_GCC",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "ATXN8OS": {
+      "AlleleCount": 2,
+      "Coverage": 48.32432432432432,
+      "FragmentLength": 440,
+      "LocusId": "ATXN8OS",
+      "ReadLength": 150,
+      "Variants": {
+        "ATXN8OS": {
+          "CountsOfFlankingReads": "(2, 1), (4, 6), (5, 1), (6, 3), (8, 2), (9, 2), (10, 3), (11, 1), (12, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(9, 13), (12, 15)",
+          "Genotype": "9/12",
+          "GenotypeConfidenceInterval": "9-9/12-12",
+          "ReferenceRegion": "13:70713515-70713560",
+          "RepeatUnit": "CTG",
+          "VariantId": "ATXN8OS",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "ATXN8OS_CTA": {
+          "CountsOfFlankingReads": "(1, 2), (3, 2), (4, 4), (6, 1), (7, 2), (8, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(8, 20), (9, 10)",
+          "Genotype": "8/9",
+          "GenotypeConfidenceInterval": "8-8/9-9",
+          "ReferenceRegion": "13:70713485-70713515",
+          "RepeatUnit": "CTA",
+          "VariantId": "ATXN8OS_CTA",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "C9ORF72": {
+      "AlleleCount": 2,
+      "Coverage": 47.83783783783784,
+      "FragmentLength": 428,
+      "LocusId": "C9ORF72",
+      "ReadLength": 150,
+      "Variants": {
+        "C9ORF72": {
+          "CountsOfFlankingReads": "(1, 7), (2, 4), (4, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(2, 21), (4, 14)",
+          "Genotype": "2/4",
+          "GenotypeConfidenceInterval": "2-2/4-4",
+          "ReferenceRegion": "9:27573526-27573544",
+          "RepeatUnit": "GGCCCC",
+          "VariantId": "C9ORF72",
+          "VariantSubtype": "RareRepeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "CACNA1A": {
+      "AlleleCount": 2,
+      "Coverage": 41.432432432432435,
+      "FragmentLength": 443,
+      "LocusId": "CACNA1A",
+      "ReadLength": 150,
+      "Variants": {
+        "CACNA1A": {
+          "CountsOfFlankingReads": "(1, 3), (2, 7), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 3), (10, 1), (11, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(11, 30)",
+          "Genotype": "11/11",
+          "GenotypeConfidenceInterval": "11-11/11-11",
+          "ReferenceRegion": "19:13318672-13318711",
+          "RepeatUnit": "CTG",
+          "VariantId": "CACNA1A",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "CBL": {
+      "AlleleCount": 2,
+      "Coverage": 41.027027027027025,
+      "FragmentLength": 447,
+      "LocusId": "CBL",
+      "ReadLength": 150,
+      "Variants": {
+        "CBL": {
+          "CountsOfFlankingReads": "(1, 1), (2, 1), (5, 1), (9, 1), (10, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(8, 10), (11, 15)",
+          "Genotype": "8/11",
+          "GenotypeConfidenceInterval": "8-8/11-11",
+          "ReferenceRegion": "11:119076999-119077032",
+          "RepeatUnit": "CGG",
+          "VariantId": "CBL",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "CNBP": {
+      "AlleleCount": 2,
+      "Coverage": 40.21621621621621,
+      "FragmentLength": 431,
+      "LocusId": "CNBP",
+      "ReadLength": 150,
+      "Variants": {
+        "CNBP": {
+          "CountsOfFlankingReads": "(1, 1), (2, 1), (3, 3), (4, 1), (6, 3), (7, 2), (10, 2), (11, 1), (12, 2), (13, 1), (14, 3), (15, 1), (16, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(1, 1), (7, 1), (15, 1), (16, 15)",
+          "Genotype": "16/16",
+          "GenotypeConfidenceInterval": "16-16/16-16",
+          "ReferenceRegion": "3:128891419-128891499",
+          "RepeatUnit": "CAGG",
+          "VariantId": "CNBP",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "CNBP_CA": {
+          "CountsOfFlankingReads": "(1, 1), (2, 1), (4, 1), (5, 1), (13, 2), (15, 2), (16, 3), (17, 1), (18, 2), (19, 2), (20, 1), (22, 5), (24, 1), (37, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(2, 1), (22, 10), (24, 6)",
+          "Genotype": "22/24",
+          "GenotypeConfidenceInterval": "22-22/24-24",
+          "ReferenceRegion": "3:128891539-128891575",
+          "RepeatUnit": "CA",
+          "VariantId": "CNBP_CA",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "CNBP_CAGA": {
+          "CountsOfFlankingReads": "(1, 3), (2, 4), (4, 2), (5, 3), (7, 2)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(7, 1), (8, 16), (9, 1)",
+          "Genotype": "8/8",
+          "GenotypeConfidenceInterval": "8-8/8-8",
+          "ReferenceRegion": "3:128891499-128891539",
+          "RepeatUnit": "CAGA",
+          "VariantId": "CNBP_CAGA",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "CSTB": {
+      "AlleleCount": 2,
+      "Coverage": 41.67567567567568,
+      "FragmentLength": 427,
+      "LocusId": "CSTB",
+      "ReadLength": 150,
+      "Variants": {
+        "CSTB": {
+          "CountsOfFlankingReads": "(1, 6), (2, 9), (3, 1), (8, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(2, 28)",
+          "Genotype": "2/2",
+          "GenotypeConfidenceInterval": "2-2/2-2",
+          "ReferenceRegion": "21:45196324-45196360",
+          "RepeatUnit": "CGCGGGGCGGGG",
+          "VariantId": "CSTB",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "DIP2B": {
+      "AlleleCount": 2,
+      "Coverage": 44.83783783783784,
+      "FragmentLength": 426,
+      "LocusId": "DIP2B",
+      "ReadLength": 150,
+      "Variants": {
+        "DIP2B": {
+          "CountsOfFlankingReads": "(1, 2), (2, 1), (3, 2), (4, 2), (5, 3), (6, 4), (7, 4)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(6, 1), (7, 38)",
+          "Genotype": "7/7",
+          "GenotypeConfidenceInterval": "7-7/7-7",
+          "ReferenceRegion": "12:50898784-50898805",
+          "RepeatUnit": "GGC",
+          "VariantId": "DIP2B",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "DMPK": {
+      "AlleleCount": 2,
+      "Coverage": 40.7027027027027,
+      "FragmentLength": 430,
+      "LocusId": "DMPK",
+      "ReadLength": 150,
+      "Variants": {
+        "DMPK": {
+          "CountsOfFlankingReads": "(1, 5), (2, 3)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(5, 30)",
+          "Genotype": "5/5",
+          "GenotypeConfidenceInterval": "5-5/5-5",
+          "ReferenceRegion": "19:46273462-46273522",
+          "RepeatUnit": "CAG",
+          "VariantId": "DMPK",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "FMR1": {
+      "AlleleCount": 2,
+      "Coverage": 39.0,
+      "FragmentLength": 425,
+      "LocusId": "FMR1",
+      "ReadLength": 150,
+      "Variants": {
+        "FMR1": {
+          "CountsOfFlankingReads": "(2, 7), (3, 3), (4, 1), (5, 1), (6, 5), (7, 2), (11, 2), (14, 4), (15, 6), (16, 2), (17, 2), (19, 3), (20, 1), (21, 1), (22, 2), (23, 1), (24, 1), (25, 1), (26, 1), (28, 3), (35, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(29, 5), (31, 7), (40, 1)",
+          "Genotype": "29/31",
+          "GenotypeConfidenceInterval": "29-29/31-31",
+          "ReferenceRegion": "X:146993568-146993628",
+          "RepeatUnit": "CGG",
+          "VariantId": "FMR1",
+          "VariantSubtype": "RareRepeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "FXN": {
+      "AlleleCount": 2,
+      "Coverage": 40.78378378378378,
+      "FragmentLength": 434,
+      "LocusId": "FXN",
+      "ReadLength": 150,
+      "Variants": {
+        "FXN": {
+          "CountsOfFlankingReads": "(3, 1), (4, 2), (5, 4), (6, 3), (7, 1), (8, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(3, 1), (6, 22), (8, 7)",
+          "Genotype": "6/8",
+          "GenotypeConfidenceInterval": "6-6/8-8",
+          "ReferenceRegion": "9:71652202-71652220",
+          "RepeatUnit": "GAA",
+          "VariantId": "FXN",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "FXN_A": {
+          "CountsOfFlankingReads": "(3, 3), (4, 3), (11, 1), (12, 1), (14, 1), (19, 1), (24, 1), (25, 1), (27, 1), (28, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(1, 1), (4, 3), (24, 19), (27, 11), (29, 1), (30, 1)",
+          "Genotype": "24/27",
+          "GenotypeConfidenceInterval": "24-24/27-27",
+          "ReferenceRegion": "9:71652177-71652202",
+          "RepeatUnit": "A",
+          "VariantId": "FXN_A",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "GIPC1": {
+      "AlleleCount": 2,
+      "Coverage": 38.67567567567567,
+      "FragmentLength": 446,
+      "LocusId": "GIPC1",
+      "ReadLength": 150,
+      "Variants": {
+        "GIPC1": {
+          "CountsOfFlankingReads": "(1, 1), (2, 1), (3, 3), (4, 2), (5, 4), (6, 5), (7, 1), (11, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(10, 8), (11, 19)",
+          "Genotype": "10/11",
+          "GenotypeConfidenceInterval": "10-10/11-11",
+          "ReferenceRegion": "19:14606853-14606886",
+          "RepeatUnit": "CCG",
+          "VariantId": "GIPC1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "GLS": {
+      "AlleleCount": 2,
+      "Coverage": 51.08108108108108,
+      "FragmentLength": 429,
+      "LocusId": "GLS",
+      "ReadLength": 150,
+      "Variants": {
+        "GLS": {
+          "CountsOfFlankingReads": "(1, 4), (3, 3), (5, 1), (6, 5), (7, 2), (9, 4), (10, 2), (12, 1), (13, 4), (14, 3)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(12, 1), (14, 45)",
+          "Genotype": "14/14",
+          "GenotypeConfidenceInterval": "14-14/14-14",
+          "ReferenceRegion": "2:191745598-191745646",
+          "RepeatUnit": "GCA",
+          "VariantId": "GLS",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "HTT": {
+      "AlleleCount": 2,
+      "Coverage": 40.21621621621621,
+      "FragmentLength": 431,
+      "LocusId": "HTT",
+      "ReadLength": 150,
+      "Variants": {
+        "HTT": {
+          "CountsOfFlankingReads": "(1, 3), (3, 1), (4, 1), (6, 1), (7, 2), (8, 1), (9, 2), (10, 4), (11, 1), (13, 3), (14, 1), (16, 3), (17, 2), (18, 1), (19, 3), (20, 3), (31, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(19, 13), (22, 8)",
+          "Genotype": "19/22",
+          "GenotypeConfidenceInterval": "19-19/22-22",
+          "ReferenceRegion": "4:3076603-3076660",
+          "RepeatUnit": "CAG",
+          "VariantId": "HTT",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "HTT_CCG": {
+          "CountsOfFlankingReads": "(3, 1), (4, 2), (5, 1), (6, 2), (7, 2), (8, 1), (9, 5), (23, 1), (29, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(9, 30)",
+          "Genotype": "9/9",
+          "GenotypeConfidenceInterval": "9-9/9-9",
+          "ReferenceRegion": "4:3076666-3076693",
+          "RepeatUnit": "CCG",
+          "VariantId": "HTT_CCG",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "JPH3": {
+      "AlleleCount": 2,
+      "Coverage": 40.78378378378378,
+      "FragmentLength": 440,
+      "LocusId": "JPH3",
+      "ReadLength": 150,
+      "Variants": {
+        "JPH3": {
+          "CountsOfFlankingReads": "(1, 3), (2, 1), (3, 2), (4, 1), (5, 1), (6, 3), (8, 2), (9, 1), (11, 1), (12, 2), (13, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(13, 27), (16, 24)",
+          "Genotype": "13/16",
+          "GenotypeConfidenceInterval": "13-13/16-16",
+          "ReferenceRegion": "16:87637893-87637935",
+          "RepeatUnit": "CTG",
+          "VariantId": "JPH3",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "NIPA1": {
+      "AlleleCount": 2,
+      "Coverage": 36.24324324324324,
+      "FragmentLength": 432,
+      "LocusId": "NIPA1",
+      "ReadLength": 150,
+      "Variants": {
+        "NIPA1": {
+          "CountsOfFlankingReads": "(1, 3), (3, 2), (4, 2), (5, 2), (6, 1), (7, 3), (8, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(8, 15)",
+          "Genotype": "8/8",
+          "GenotypeConfidenceInterval": "8-8/8-8",
+          "ReferenceRegion": "15:23086366-23086390",
+          "RepeatUnit": "CGC",
+          "VariantId": "NIPA1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "NOP56": {
+      "AlleleCount": 2,
+      "Coverage": 41.351351351351354,
+      "FragmentLength": 446,
+      "LocusId": "NOP56",
+      "ReadLength": 150,
+      "Variants": {
+        "NOP56": {
+          "CountsOfFlankingReads": "(2, 7), (3, 2), (4, 1), (6, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(5, 18), (6, 17)",
+          "Genotype": "5/6",
+          "GenotypeConfidenceInterval": "5-5/6-6",
+          "ReferenceRegion": "20:2633379-2633403",
+          "RepeatUnit": "GGCCTG",
+          "VariantId": "NOP56",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        },
+        "NOP56_CGCCTG": {
+          "CountsOfFlankingReads": "(1, 3), (2, 5), (3, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(2, 17), (3, 19)",
+          "Genotype": "2/3",
+          "GenotypeConfidenceInterval": "2-2/3-3",
+          "ReferenceRegion": "20:2633403-2633421",
+          "RepeatUnit": "CGCCTG",
+          "VariantId": "NOP56_CGCCTG",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "PABPN1": {
+      "AlleleCount": 2,
+      "Coverage": 40.21621621621621,
+      "FragmentLength": 430,
+      "LocusId": "PABPN1",
+      "ReadLength": 150,
+      "Variants": {
+        "PABPN1": {
+          "CountsOfFlankingReads": "(1, 3), (3, 1), (4, 1), (6, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(3, 1), (6, 45), (35, 1)",
+          "Genotype": "6/6",
+          "GenotypeConfidenceInterval": "6-6/6-6",
+          "ReferenceRegion": "14:23790681-23790699",
+          "RepeatUnit": "GCG",
+          "VariantId": "PABPN1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "PHOX2B": {
+      "AlleleCount": 2,
+      "Coverage": 39.486486486486484,
+      "FragmentLength": 439,
+      "LocusId": "PHOX2B",
+      "ReadLength": 150,
+      "Variants": {
+        "PHOX2B": {
+          "CountsOfFlankingReads": "(1, 1), (2, 3), (3, 4), (4, 2), (5, 4), (6, 1), (7, 3), (8, 1), (9, 2), (10, 2), (11, 4), (12, 2), (13, 1), (14, 3), (15, 4), (17, 1), (18, 1), (20, 2)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(20, 16)",
+          "Genotype": "20/20",
+          "GenotypeConfidenceInterval": "20-20/20-20",
+          "ReferenceRegion": "4:41747989-41748049",
+          "RepeatUnit": "GCN",
+          "VariantId": "PHOX2B",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "PPP2R2B": {
+      "AlleleCount": 2,
+      "Coverage": 42.24324324324324,
+      "FragmentLength": 428,
+      "LocusId": "PPP2R2B",
+      "ReadLength": 150,
+      "Variants": {
+        "PPP2R2B": {
+          "CountsOfFlankingReads": "(1, 2), (3, 4), (4, 7), (5, 1), (7, 3), (8, 5), (9, 4), (10, 2)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(9, 13), (10, 11)",
+          "Genotype": "9/10",
+          "GenotypeConfidenceInterval": "9-9/10-10",
+          "ReferenceRegion": "5:146258290-146258320",
+          "RepeatUnit": "GCT",
+          "VariantId": "PPP2R2B",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "RFC1": {
+      "AlleleCount": 2,
+      "Coverage": 52.2972972972973,
+      "FragmentLength": 433,
+      "LocusId": "RFC1",
+      "ReadLength": 150,
+      "Variants": {
+        "RFC1": {
+          "CountsOfFlankingReads": "(1, 7), (2, 3), (3, 1), (4, 1), (5, 6), (8, 9), (9, 1), (11, 4), (12, 1), (13, 2), (17, 2), (18, 3), (19, 1), (20, 4), (21, 4), (22, 1), (23, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(11, 18), (15, 1), (16, 1), (21, 6)",
+          "Genotype": "11/21",
+          "GenotypeConfidenceInterval": "11-11/21-21",
+          "ReferenceRegion": "4:39350044-39350099",
+          "RepeatUnit": "AARRG",
+          "VariantId": "RFC1",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "TBP": {
+      "AlleleCount": 2,
+      "Coverage": 49.29729729729729,
+      "FragmentLength": 448,
+      "LocusId": "TBP",
+      "ReadLength": 150,
+      "Variants": {
+        "TBP": {
+          "CountsOfFlankingReads": "(2, 2), (3, 1), (4, 1), (6, 3), (9, 1), (11, 4), (12, 1), (13, 4), (14, 3), (15, 1), (16, 4), (20, 1), (21, 1), (22, 1), (24, 7), (25, 7), (27, 2), (29, 1), (30, 1), (33, 1), (35, 2), (36, 2)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(5, 1), (6, 1), (16, 1), (25, 1), (28, 1), (30, 9), (36, 6)",
+          "Genotype": "30/36",
+          "GenotypeConfidenceInterval": "30-30/36-36",
+          "ReferenceRegion": "6:170870994-170871105",
+          "RepeatUnit": "GCA",
+          "VariantId": "TBP",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    },
+    "TCF4": {
+      "AlleleCount": 2,
+      "Coverage": 47.02702702702703,
+      "FragmentLength": 415,
+      "LocusId": "TCF4",
+      "ReadLength": 150,
+      "Variants": {
+        "TCF4": {
+          "CountsOfFlankingReads": "(2, 2), (6, 2), (8, 3), (10, 2), (11, 2), (12, 3), (13, 4), (14, 1), (16, 2), (17, 2), (18, 1), (19, 5), (20, 2), (21, 2), (22, 4), (23, 2), (24, 3), (25, 1), (26, 1), (27, 1)",
+          "CountsOfInrepeatReads": "()",
+          "CountsOfSpanningReads": "(22, 1), (24, 7), (27, 11), (29, 1), (36, 1)",
+          "Genotype": "24/27",
+          "GenotypeConfidenceInterval": "24-24/27-27",
+          "ReferenceRegion": "18:53253386-53253458",
+          "RepeatUnit": "CAG",
+          "VariantId": "TCF4",
+          "VariantSubtype": "Repeat",
+          "VariantType": "Repeat"
+        }
+      }
+    }
+  },
+  "SampleParameters": {
+    "SampleId": "ERR1955424",
+    "Sex": "Female"
+  }
+}
