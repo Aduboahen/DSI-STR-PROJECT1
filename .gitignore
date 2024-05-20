@@ -1,5 +1,3 @@
-*.bam
-*.vcf
-*.tsv
-*.bai
+./stripy_result
 *.tbi
+*.bai
